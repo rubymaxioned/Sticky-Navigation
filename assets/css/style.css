@@ -120,7 +120,9 @@ li {
 =================================*/
 header { 
   width: 100%;
-  position: absolute; 
+  padding-bottom: 15px;
+  position: fixed; 
+  background-color: #000;
 }
 
 header .wrapper { padding-top: 14px; }
