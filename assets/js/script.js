@@ -8,8 +8,7 @@ function myFunction(){
         att.forEach(function(list){
             list.classList.add('color');
         })
-    }  
-    else {
+    } else {
         header.style.backgroundColor = "#000";
         att.forEach(function(list){
             list.classList.remove('color');
