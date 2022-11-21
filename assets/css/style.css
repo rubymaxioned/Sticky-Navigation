@@ -180,7 +180,7 @@ header .wrapper {
 .hamburger:hover .bar3 { transform: translate(0, -3px) rotate(45deg); }
 
 .color {
-  
+  color: #000;
 }
 
 /*=================================
