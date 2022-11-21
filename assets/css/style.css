@@ -123,6 +123,7 @@ header {
   padding-bottom: 15px;
   position: fixed; 
   background-color: #000;
+  z-index: 10;
 }
 
 header .wrapper { padding-top: 14px; }
